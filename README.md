@@ -1,2 +1,2 @@
-# SimpleVendingMachine
-Soda dispenser using structures
+# SodaDispenser
+Vending machine using structures
